@@ -72,6 +72,7 @@ El método crearDummyData es privado: ¿por qué cree que este método es privad
   * Aprovechamiento de las clases contenedoras adecuadas según la necesidad.
   * Uso de memoria dinámica y liberación de memoria
   * Código duplicado
+  * Código que no sea necesario
 
 *****
 
