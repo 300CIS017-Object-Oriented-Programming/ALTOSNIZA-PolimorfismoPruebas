@@ -53,6 +53,7 @@ Según la implementación planteada, verifique el diagrama UML - revise cuales d
 
 ##### 3. SOBRECARGA | SOBREESCRITURA
 * Identifique y  explique al menos un uso que este haciendo este proyecto de la sobreescritura
+* En este código tenemos  sobrecarga? ¿en dónde?  ¿Por qué?
 
 ##### 4. CONTENEDORAS
 * La clase Admin tiene una funcionalidad para verificar si existe un propietario. Revise esa implementación.
